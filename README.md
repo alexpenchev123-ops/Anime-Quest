@@ -1,2 +1,2 @@
-# Anime Quest
+# AnimeQuest
 
